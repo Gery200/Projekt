@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Sriracha&display=swap');
 
+header{
+    padding: 2rem;
+    background-color: #2810E0;
+}
+
 header h1 {
     text-align: center;
     color: black;
@@ -10,4 +15,30 @@ body{
     font-family: "Lexend", sans-serif;
     line-height: 1.5;
     text-indent: 15px;
+}
+
+#navbar ul{
+    list-style-type:none ;
+   background-color:black ;
+   padding:0px ;
+   margin: 0px; 
+   overflow: hidden;
+   display: flex;          
+  justify-content: center;
+  gap: 40px;
+}
+
+#navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+#navbar a:hover {
+    background-color:gray ;
+}
+
+#navbar li {
+    float: left;
 }
