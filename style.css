@@ -5,3 +5,9 @@ header h1 {
     color: black;
     font-family: "Sriracha", cursive;
 }
+
+body{
+    font-family: "Lexend", sans-serif;
+    line-height: 1.5;
+    text-indent: 15px;
+}
