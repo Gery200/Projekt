@@ -3,15 +3,6 @@
 header{
     padding: 2rem;
     background-color: #2810E0;
-    background-image: url(./img/adro-g8x-m3-m4-side-profile.webp);
-    background-size: cover;
-    background-position: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-position-x: 100%;
-    background-position-y: 50%;
-   
-    
 }
 
 header h1 {
@@ -24,6 +15,13 @@ body{
     font-family: "Lexend", sans-serif;
     line-height: 1.5;
     text-indent: 15px;
+}
+
+main{
+    color: white;
+    background-image: url(./img/hatter2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #navbar ul{
@@ -50,4 +48,17 @@ body{
 
 #navbar li {
     float: left;
+}
+
+#bev h2{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#masodik h2{
+    text-align: center;
+}
+
+#harmadik h2{
+    text-align: center;
 }
