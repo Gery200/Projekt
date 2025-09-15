@@ -7,6 +7,8 @@
 
     A weboldalt probáltuk egy letisztult bemutató oldallá megtervezni, amely könnyen átlátható és kiemeli a BMW M4 Competition G82/G83 modell erősségeit.
 
+    Az oldalt bootstrap-el csináljuk, ezzel segítve a telefonos olvasókat is.
+
     
 
 
