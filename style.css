@@ -2,12 +2,12 @@
 
 header{
     padding: 2rem;
-    background-color: #2810E0;
+    background-color: black;
 }
 
 header h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-family: "Sriracha", cursive;
 }
 
@@ -19,10 +19,11 @@ body{
 
 main{
     color: white;
-    background-image: url(./img/hatter2.jpg);
+    text-shadow: 4px 4px 4px rgba(0,0,0,0.9);
+    background-image: url(./img/dark\ bmw.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-}
+    }
 
 #navbar ul{
     list-style-type:none ;
