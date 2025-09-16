@@ -1,0 +1,33 @@
+header h1 {
+    text-align: center;
+    color: white;
+}
+
+main{
+    padding-top: 4rem;
+    color: white;
+    text-align: center;
+}
+
+body{
+    line-height: 1.5;
+    background-color: black;
+}
+
+nav{
+    padding: 3rem;
+    text-align: center;
+}
+
+nav a {
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+nav a:hover{
+    color: aqua;
+}
