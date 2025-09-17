@@ -23,6 +23,7 @@ main{
     background-image: url(./img/dark\ bmw.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     }
 
 #navbar ul{
